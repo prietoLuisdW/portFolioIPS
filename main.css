@@ -29,3 +29,13 @@
 .bg_grenndark{
     background-color: #244D06;
 }
+
+#logo{
+    width: 20%;
+    height: 20%;
+}
+
+.t_110{
+    height: 110%;
+    width: 110%;
+}
