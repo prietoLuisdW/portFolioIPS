@@ -2,3 +2,26 @@
 *{
 	font-family: 'Montserrat', sans-serif;
 }
+.bg_azul{
+    background-color: brown;
+}
+
+.text_white{
+    color: azure;
+    text-decoration: none;
+}
+.text_black{
+    color: black;
+}
+
+.mt_0{
+    margin-top: 0px;
+}
+
+.nav-item a:hover{
+    color: grey;
+}
+
+.bg_color_verdeclaro{
+    background-color: #D8FFDB;
+}
