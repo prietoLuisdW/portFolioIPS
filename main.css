@@ -22,12 +22,17 @@
     color: grey;
 }
 
-.bg_color_verdeclaro{
-    background-color: #D8FFDB;
+.bg_color_nav{
+    background-color: #AAFFF4;
 }
 
-.bg_grenndark{
-    background-color: #244D06;
+.bg_head{
+    background-color: #36B1BF;
+    border: #36B1BF;
+}
+.bg_head:hover{
+    background-color: #236E8C;
+    border: #36B1BF;
 }
 
 #logo{
@@ -38,4 +43,14 @@
 .t_110{
     height: 110%;
     width: 110%;
+}
+
+.myActive{
+    background-color: #236E8C;
+}
+
+.static{
+    position: sticky;
+    position: relative;
+    top: 40px
 }
